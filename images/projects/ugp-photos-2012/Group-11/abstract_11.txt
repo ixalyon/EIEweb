@@ -1,0 +1,9 @@
+Power Quality Improvement With AC to DC Converters -
+
+Analog to Digital conversion of electric power is widely employed in many industrial applications. 
+A majority of the power electronic applications in industrial applications make use of controlled DC power. 
+The trend is to use the inexpensive rectifiers with diodes to convert the input AC into DC in a controlled manner, using rectifiers with diodes. 
+But they have the problems of poor power quality in terms of injected current harmonics. 
+These rectifiers draw highly distorted current from the utility. Resultant voltage distortions and poor power factor at input AC mains and 
+slowly varying rippled DC output at load end. There are several ways to overcome from these problems.
+Our goal is to develop them to a matured level with improved power quality.

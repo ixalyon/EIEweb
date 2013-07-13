@@ -1,0 +1,51 @@
+/* CSS Document */
+#gallery {
+padding: 0;
+list-style-type: none;
+overflow: hidden;
+width: 495px;
+height: 240px;
+border: 1px solid #888;
+background: #fff url(../images/fasility/win_backh.gif); 
+ } 
+
+#gallery li {
+float:left; 
+} 
+
+#gallery li a { 
+display: block;
+height: 240px;
+width: 28px;
+float: left;
+text-decoration: none;
+border-right: 1px solid #fff;
+cursor: default;
+} 
+
+#gallery li a img {
+width: 28px;
+height: 240px;
+border: 0;
+ }
+ 
+#gallery li a:hover { 
+background: #eee;
+width: 320px; 
+} 
+
+#gallery li a:hover img { 
+width: 320px;
+}
+
+.fscilityitem{
+	padding: 20px;
+	margin-bottom:20px;
+	height:280px;
+}
+.fscildescp{
+	float:right;
+	float: right;
+	width: 410px;
+	text-align: justify;
+}

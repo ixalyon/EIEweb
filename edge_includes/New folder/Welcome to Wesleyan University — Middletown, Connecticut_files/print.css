@@ -1,0 +1,68 @@
+body {
+background-color: #ffffff; 
+font: 14px/22px Helvetica,Arial,sans-serif;
+}
+
+#admission_site_nav, div#landing_page_nav, #utils, #navbar, #admission_header, #footer_wrapper, #footer_backdrop, #footer, #calls_to_action, div#fullmenu, img#logo, div#image_quad, div#video, h1.hide {
+display: none;
+}
+
+#admission_site_nav, div#landing_page_nav {
+float: left;
+width: 200px;
+}
+
+#header_wrapper {
+padding: 20px;
+background-color:#000;
+}
+
+div#content_primary {
+width: 600px;
+float: left;
+margin: 0 0 0 20px;
+}
+
+#admission_site_content #content_primary {
+padding:0;
+width:450px;
+float: left;
+}
+
+
+#landing_page_content {
+position: relative;
+}
+
+div#content_related {
+position: absolute;
+top: 120px;
+right: 0;
+width: 200px;
+}
+
+div#printlogo img {
+display: inline;
+position: absolute;
+top: -10px;
+left:-10px;
+}
+
+h2 a {
+text-decoration: none;
+font-size: 22px;
+margin: 50px 0 0 0;
+}
+
+ul#highlight_buttons li {
+list-style-type: none;
+}
+
+ul#highlight_buttons li a {
+text-decoration: none;
+}
+
+ul#highlight_buttons li a img {
+margin: 0 20px 0 0;
+border: 0;
+}

@@ -1,0 +1,17 @@
+Developing Spirometer with Pulse Oximeter
+
+Spirometers are used to measure lung capacity and response of lungs and chest during
+physical therapy. They reveal whether the patient's dyspnoea is due to cardiac or
+pulmonary dysfunction and are used to detect asthma. Unfortunately their applica-
+tion is limited due to high instrument cost and available low cost devices are with
+lack of accuracy.
+In addition to that Pulse Oximeter is the device which is used in measuring arte-
+rial oxygen (SpO2) concentration and pulse rate. Pulse Oximeter is widely used in
+emergency health care to continue monitoring of a patient who is subjected to venti-
+lation and etc.
+A transmission Pulse Oximeter together with a Spirometer was developed under this
+project. In developing Pulse Oximeter red LED and IR LED were used as the light
+sources and a photo diode had been used as the detector. In Spirometer Motorola
+MPX2010D pressure sensor was used to measure the flow rate.
+In order to present the data retrieved by both the above devices a software appli-
+cation was developed using visual C#.

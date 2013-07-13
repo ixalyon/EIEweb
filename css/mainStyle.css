@@ -1,0 +1,293 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+margin:0;
+line-height:1.35;
+padding:0;
+}
+
+table {
+margin: 10px 0 10px 0;
+}
+
+table tr td {
+padding: 5px 10px 5px 10px;
+}
+
+#landing_page_content ol li, #landing_page_content ul li {
+padding: 0 0 5px 0;
+}
+
+a {
+color:#000;
+font-weight:normal;
+text-decoration:none;
+}
+
+a:hover {
+color:#900;
+text-decoration:none;
+}
+
+body {
+background:#fff;
+color:#000;
+font-family:Helvetica, Arial, sans-serif;
+font-size:62.5%;
+}
+
+h1 {
+color:#ffefbe;
+font-family:'PT Sans Narrow',Trajan, "Trajan Pro", Times, "Times New Roman", serif;
+font-size:84px;
+font-weight:normal;
+letter-spacing:-.01em;
+line-height:1;
+margin:0 0 28px;
+}
+
+h2, h2 a {
+font-size:12px;
+font-weight:bold;
+letter-spacing:.25em;
+margin:24px 0 18px;
+text-decoration:none;
+color: #ccc;
+}
+
+h2.first {
+margin-top:0;
+}
+
+h3 {
+color:#494949;
+font-size:12px;
+font-weight:bold;
+margin:18px 0 12px;
+
+}
+
+img {
+border:0px none;
+}
+
+p {
+margin:0 0 12px;
+}
+
+p.first, p.first ul, ul.first {
+color:#494949;
+font-family:Georgia, Times, "Times New Roman", serif;
+font-size:18px;
+line-height:1.7;
+}
+
+div#printlogo img, script {
+display: none;
+}
+
+#page_wrapper {
+background:#fff;
+}
+
+#header {
+background:#726B55;
+height:154px;
+/*padding:10px 0 0;*/
+width:100%;
+}
+
+#header_wrapper {
+background:#726B55;
+height:92px;
+margin:0 auto;
+position:relative;
+width:960px;
+}
+
+#background_wrapper2 {
+background: url(../logos/page_shadow.png) repeat-y 50% 0;
+background-color:rgb(53, 51, 40);
+width:100%;
+float:left;
+}
+
+#content {
+background:transparent;
+font-size:13px;
+margin:0 auto;
+width:960px;
+}
+
+#background_wrapper {
+	background: url(../logos/page_shadow.png) repeat-y 50% 0;
+background-color:rgb(202, 200, 189);
+width:100%;
+float:left;
+padding-bottom: 20px;
+}
+
+#header a {
+color:rgb(206, 202, 172);
+text-decoration:none;
+letter-spacing:0.15em;
+padding-top:10px;
+padding-bottom:8px;
+}
+
+#header a:hover {
+color:#fff;
+text-decoration:none;
+}
+
+#logo {
+float:left;
+}
+
+#utils {
+float:right;
+font-size:11px;
+}
+
+#utils li {
+float:left;
+line-height:28px;
+list-style:none;
+margin-left:14px;
+}
+
+/* Navigation ------------------------------ */
+
+#menu_bar {
+	background-color: #666;
+    float:left;
+	-moz-border-radius-topleft:15px; /* top left corner */
+-moz-border-radius-topright:15px; /* top right corner */
+-webkit-border-top-left-radius:15px; /* top left corner */
+-webkit-border-top-right-radius:15px; /* top right corner */
+border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+
+/* Footer ---------------------------------- */
+
+#footer_wrapper {
+
+width:100%;
+float:left;
+}
+
+#footer_backdrop {
+background-color:rgb(155, 152, 123);
+margin:0;
+padding:20px;
+height:110px;
+clear:both;
+}
+
+#footer {
+color:#666;
+font-size:12px;
+margin:0 auto;
+padding-top:10px;
+padding-bottom:10px;
+width:910px;
+}
+
+#footer * {
+line-height:1.5;
+}
+
+#footer a:link, #footer a:visited, #footer a:active {
+color:#666;
+text-decoration:underline;
+}
+
+#footer a:hover {
+color:#900;
+text-decoration:underline;
+}
+
+#footer .inline_separator {
+padding:0 .15em;
+}
+
+#footer p.shield {
+margin:2em 0 0;
+}
+
+#footer p {
+margin:0 0 .5em;
+}
+
+#footer .nudge {
+padding:0 .15em;
+}
+
+#footer .nudge_right {
+padding-right:.15em;
+}
+
+#footer_copyright {
+font-size:smaller;
+padding-top:15px;
+}
+
+#footer_sheild {
+float:right;
+}
+
+/* Footer ---------------------------------- */
+
+/* FAQ Collapsible Menu -------------------- */
+
+#faq ul li {
+margin: 0;
+}
+
+#faq ul li ul li {
+padding: 0 0 0 20px;
+list-style-type: none;
+}
+
+/* FAQ Collapsible Menu -------------------- */
+
+/* Miscellaneous --------------------------- */
+
+.calendar {
+background:url(../logos/calendar.gif) no-repeat 0 0;
+text-indent:22px;
+
+}
+
+.comment {
+background:url(../logos/comment.gif) no-repeat 0 0;
+text-indent:22px
+}
+
+.document {
+background: url(../logos/document.gif) no-repeat 0 0;
+text-indent:22px
+}
+
+.hide {
+display:none;
+}
+
+p.rsstime {
+font-size: 10px;
+padding: 0;
+margin: 0;
+font-style: italic;
+}
+
+/* Miscellaneous --------------------------- */

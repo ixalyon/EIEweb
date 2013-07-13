@@ -1,0 +1,4 @@
+Abstract
+With the rapid growth of usage in mobile phones and tablets, the need for entertainment related applications that can be easily adopted with social networks and music systems that automatically generating music playlists that fit the preferences of the user was increased. It is considered as a daunting task of manually searching through each entry in a large collection to find the appropriate song required by the listener. 
+
+Design of an algorithm to find a list of related songs for a seed song according to socially collected data and implementation it as a mobile based application is done.

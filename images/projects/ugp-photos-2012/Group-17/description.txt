@@ -1,0 +1,19 @@
+The objective of the Sign Language to Voice Converter is to provide ecient commu-
+nication mediator for hearing impaired people and normal people. This objective is
+achieved using major two categories.
+ Word mode
+ Letter mode
+
+In Word mode, when the ASL sign language word is acted it is converted to
+English word. For this purpose, sophisticated algorithm and Articial Neural Net-
+work(NN) are used.
+
+In Letter mode, letters in the ASL are identied using template matching techniques. 
+The image of the hand is captured and the image is enhanced using noise reduction techniques. And after that using template matching,
+the letter is identfied. 
+
+ User interface of the application is design using Tile and Metro Concepts. And
+the whole application can be operated without touching the mouse. In other words,
+Mouse operation is embedded to hand. Therefore using hand, mouse cursor can be
+moved and click operation can be performed. This makes the user comfortable with
+the operation and gives a novel experience to the user.

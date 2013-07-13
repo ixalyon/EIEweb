@@ -1,0 +1,5 @@
+Smart Grid with Renewable Energy Sources
+
+This project was developed an interface for getting optimal energy from the renewable sources. Here mainly considered about solar power and developed MPPT circuit to get optimal power from solar panel considering sun radiation and ambient temperature.
+After taking maximum power form solar panel, output current values were adjusted as required for charging battery. Then DC output was inverted through inverter circuit. If renewable power sources are not enough to charge or if the battery is discharged the system will shift to redundant power supply using switching circuit.
+For monitoring purposes sun radiation, ambient temperature, output voltages of each step were measured and displayed in LCD.

@@ -1,0 +1,3 @@
+Multi motor synchronization is very important in production industry. Few methods of electronic motor synchronizing have been implemented in last decade. In this paper new microcontroller based motor synchronization system is introduced. The new method is cost effective and practical than the other methods.
+
+Real time vibration monitoring is also very important in electrical machines, especially in synchronized machines to prevent failures. Few methods of vibration monitoring have been implemented in near past. In this paper new vibration alert system is introduced using low cost piezoelectric sensors and GSM network. The new model is cost effective and accurate than other conventional methods. 

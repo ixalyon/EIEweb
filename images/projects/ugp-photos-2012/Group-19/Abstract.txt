@@ -1,0 +1,5 @@
+in this project we have developed an automated medical ventilator at a low cost 
+by using a existing manual portable ventilator called ambu bag.
+ we have developed a compressing mechanism for that ambu bag and to control the relevant output parameters 
+we have developed a micro-control based circuit and developed an android application 
+for a mobile phone  to control those values by remotely.

@@ -1,0 +1,19 @@
+This project is the design and implementation of a three phase voltage source inverter (VSI)
+ 
+which uses Space Vector Pulse Width Modulation (SVPWM) as the switching technique. SVPWM is a new 
+
+efficient and effective PWM method compared to other common PWM techniques. Three phase voltage 
+
+source inverter is a very critical component which is used to convert dc voltage into three 
+
+phase ac voltage in renewable energy sector and industrial applications such as VFDs. The SVPWM
+
+technique is introduced and implemented in a microcontroller in order to drive the VSI. The generated 
+
+SVPWM signals must be properly used at the switching elements to ensure the smooth functioning of the VSI.
+
+To achieve this task isolator and inverter gate driver circuits are designed. The developed system 
+
+was tested in several stages. The obtained results are compared with the performance of sinusoidal 
+
+PWM technique.

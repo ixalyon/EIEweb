@@ -1,0 +1,11 @@
+Abstract
+Sign language is the most frequently used tool among deaf of hard of hearing people when the transmission of 
+audio is difficult, or when the action of writing and typing is difficult, but the possibility of vision exists. 
+This report describes two approaches in developing a sign language recognition system using a pair of accelegloves. 
+In the first method neural network based recognition was used whereas software development tool kit (SDK) integrated 
+with the glove was used in the second method. In the second method system has the capability of recognizing both single
+ hand static, dynamic gestures and two hand static, dynamic gestures. Also the system can recognize gesture of Sinhala, 
+Tamil and American Sign Languages. Recognized gestures of American Sign Language are translated into voice in real time. 
+For Sinhala and Tamil Sign Language the recognized gestures are translated into text only.
+ The completed package includes the user friendly features such as creating and editing gesture libraries, 
+Deleting libraries and real time recognition of the created libraries.

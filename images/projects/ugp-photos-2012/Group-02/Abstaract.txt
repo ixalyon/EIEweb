@@ -1,0 +1,15 @@
+Energy harvesting technology has the ability to create autonomous, self-powered elec-
+tronic and electrical systems that do not rely on battery power for their operation.
+The term energy harvesting describes the process of converting ambient energy sur-
+rounding a system into useful electrical energy through the use of a specic material
+or transducer. Piezoelectric materials have long been used as sensors and actuators.
+However their use as electrical generators is less established. In this report the area
+of energy harvesting by both pressure and vibration are presented. This report de-
+tails on the energy harvesting by piezoelectric discs. Piezoelectric discs are used to
+harvest energy by using both the pressure and vibration. Results obtained by using
+the piezo discs and the relation between the power and the number of steps to charge
+re-chargeable batteries are also included. Using thicker materials and materials with
+higher voltage constants to harvest maximum energy is written. Then this report
+describes how to use piezoelectric materials to harvest maximum energy from vibra-
+tions. Finally suggestions and further implementations are given on various methods
+of energy harvesting by piezoelectric material.

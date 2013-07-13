@@ -1,0 +1,10 @@
+- In-Shoe Plantar Pressure Analyzer -
+
+Measuring plantar pressure is vital in walk and stance research for diagnosing disabilities for avoiding injuries in human lower limbs. 
+It is also used in industrial research to design comfortable footwear, optimize footwear for sports and other applications.
+This paper presents designing and implementing of low cost Plantar Pressure Analyzer which is used to gather and 
+analyze plantar pressure variation of the foot with and without footwear. 
+In this analyzer Force sensing Resistor (FSR) sensors are integrated to a wearable sensor sock and 
+a data acquisition system is in built with both Bluetooth and USB interfaces to capture data. 
+Professionally developed data analyzing software is included to perform both synchronous and asynchronous analysis 
+designed to a give rich graphical experience to the end user

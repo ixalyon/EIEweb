@@ -1,0 +1,3 @@
+Abstract
+The use of fuel cells for power generation is a better solution for the energy crisis which we are facing nowadays and is also a clean source of energy that have a much lower environmental impact than conventional energy technologies. But the unstable nature of the power delivered by the fuel cell needs the association of power electronic interfaces in order to be used in operating electrical/electronic loads. This project “Application of Power Electronics in Fuel Cell Systems” is based on the design and development process of a power electronic interface for fuel cell systems, in order to fulfill the requirement of power conditioning.
+
