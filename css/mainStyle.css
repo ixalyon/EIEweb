@@ -1,4 +1,6 @@
 @charset "UTF-8";
+@charset "UTF-8";
+@charset "UTF-8";
 /* CSS Document */
 
 html, body, div, span, applet, object, iframe,
@@ -100,7 +102,7 @@ background:#fff;
 
 #header {
 background:#726B55;
-height:154px;
+height:142px;
 /*padding:10px 0 0;*/
 width:100%;
 }
@@ -139,8 +141,8 @@ padding-bottom: 20px;
 color:rgb(206, 202, 172);
 text-decoration:none;
 letter-spacing:0.15em;
-padding-top:10px;
-padding-bottom:8px;
+padding-top:2px;
+padding-bottom:2px;
 }
 
 #header a:hover {

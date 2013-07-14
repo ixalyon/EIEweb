@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@charset "UTF-8";
 /* CSS Document */
 a.gototop {
 clear: both;
@@ -31,7 +32,7 @@ width:384px;
 }
 
 #image_quad ul {
-border-top:2px solid #fff;
+border-top:2px solid #000;
 clear:both;
 float:left;
 }
@@ -60,7 +61,7 @@ cursor:pointer;
 }
 
 #image_gallery {
-border-top:2px solid #fff;
+border-top:2px solid #000;
 float:left;
 height:382px;
 width:576px;
@@ -122,9 +123,9 @@ background: rgb(226, 221, 205);/* #F2E3B3;*/
 margin: 12px 0;
 padding-bottom: 10px;
 border:rgb(243, 243, 243) solid 2px; 
--moz-border-radius: 15px;
+/*-moz-border-radius: 15px;
 border-radius: 15px;
-box-shadow:4px 8px 2px #888888;
+box-shadow:4px 8px 2px #888888;*/
 }
 
 #content_eventalternate {
@@ -135,9 +136,9 @@ display: none;
 
 #headlines{
 border:rgb(243, 243, 243) solid 2px;
--moz-border-radius: 15px;
+/*-moz-border-radius: 15px;
 border-radius: 15px;
-box-shadow: 8px 8px 4px #888888;
+box-shadow: 8px 8px 4px #888888;*/
 margin-bottom:10px;
 background:rgb(218, 204, 163);
 }
@@ -147,9 +148,9 @@ margin: 0 0 0 10px;
 }
 #community{
 border:rgb(243, 243, 243) solid 2px;
--moz-border-radius: 15px;
+/*-moz-border-radius: 15px;
 border-radius: 15px;
-box-shadow: 5px 5px 2px #888888;
+box-shadow: 5px 5px 2px #888888;*/
 margin-bottom:10px;
 background: rgb(236, 227, 160);/*#F2E3B3;*/
 max-height: 348px;
@@ -173,9 +174,9 @@ margin-top:10px;
 background: rgb(226, 221, 205);/*#F2E3B3; rgb(11, 95, 95);rgb(212, 226, 226);*/
 margin-left:10px;
 border:2px solid rgb(187, 172, 172);
--moz-border-radius: 15px;
+/*-moz-border-radius: 15px;
 border-radius: 15px;
-box-shadow: 5px 5px 5px #888888;
+box-shadow: 5px 5px 5px #888888;*/
 }
 
 #content_Location pre{
@@ -321,12 +322,12 @@ padding-top: 5px;
 color:#FFF;
 letter-spacing:1px;
 	text-align:center;
-	-moz-border-radius-topleft:15px; /* top left corner */
--moz-border-radius-topright:15px; /* top right corner */
--webkit-border-top-left-radius:15px; /* top left corner */
--webkit-border-top-right-radius:15px; /* top right corner */
+/*	-moz-border-radius-topleft:15px; /* top left corner */
+-moz-border-radius-topright:15px; /* top right corner *
+-webkit-border-top-left-radius:15px; /* top left corner *
+-webkit-border-top-right-radius:15px; /* top right corner *
 border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
+  border-top-right-radius: 15px;*/
   margin-bottom: 10px;
 }
 .bodylink{
